@@ -1,0 +1,1 @@
+Buscamos el programa, y nos situamos en la carpeta que lo contiene con el comando cd.Añadimos solo los archivos necesarios de esa carpeta, en este caso src. Para ello usamos git add src. A continuación modificamos el README y realizamos otro commit con los mismos comandos que utilizamos en el apartado anterior
